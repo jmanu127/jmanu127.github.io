@@ -11,5 +11,6 @@ tech and ecomomics.
 ## hello
 
 ```Python:
-print('Hello World!!')
+def hola():
+  print('Hello World!!')
 ```
