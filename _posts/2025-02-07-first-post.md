@@ -10,6 +10,6 @@ tech and ecomomics.
 
 ##hello
 
-'''python:
+'''Python:
 print('Hello World!!')
 '''
