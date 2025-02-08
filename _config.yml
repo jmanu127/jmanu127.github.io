@@ -70,11 +70,11 @@ minima:
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
   # Build settings
-  # markdown: kramdown
-  # permalink: pretty
+  markdown: kramdown
+  permalink: pretty
 
-  # highlighter: rouge
-  # kramdown:
-  #   input: GFM
-  #   auto_ids: true
-  #   syntax_highlighter: rouge
+  highlighter: rouge
+  kramdown:
+    input: GFM
+    auto_ids: true
+    syntax_highlighter: rouge
