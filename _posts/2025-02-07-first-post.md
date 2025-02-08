@@ -10,7 +10,7 @@ tech and ecomomics.
 
 ## hello
 
-```Python:
-def hola():
+```python:
+def hey():
   print('Hello World!!')
 ```
