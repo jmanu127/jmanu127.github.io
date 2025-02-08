@@ -8,8 +8,7 @@ categories: intro, tech, economics
 I will be publishing everything from random ideas to tutorials mostly focused in
 tech and ecomomics.
 
-## hello
+##hello
 
 '''python
 print('Hello World!!')
-'''
