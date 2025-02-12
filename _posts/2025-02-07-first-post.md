@@ -9,6 +9,6 @@ I will be publishing everything from random ideas to tutorials mostly focused in
 deep learning and ecomomics.
 
 ```python
-def hey():
-  print('Hello World!!')
+def foo():
+    print('Hello World!!')
 ```
